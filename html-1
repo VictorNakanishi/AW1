@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header style="display: inline-flex; margin: 1%;">
+        <!-- <div style="position: relative; top: 20px; left: 30px;"> -->
+            <div style="display: flex; margin: 10%;">
+            <img src="https://via.placeholder.com/720x250" alt="Imagem">
+                <div style="display: inline-block; margin-left: 20%; margin-top: 10%;">
+                    <h1> Texto </h1>
+                    <h2>Frase</h2>
+                </div>
+            </div>
+    </header><hr>
+
+    <main style="background-color: rgb(187, 187, 187); display: flex; margin: 5%;">
+        <section style="display: inline-block;">
+            <section style="margin: 1%; background-color: rgb(110, 110, 110);">
+                <header style="display: flex; margin: 1%; background-color: rgb(75, 75, 75);">
+                    <div style="display: inline-block; margin: 1%;">
+                        <h5>Diz-me com quem andas e te direi se vou contigo.. Diz-me com quem andas e te direi se vou contigo.. 
+                        Cemeteries are just garbage dumps filled with humans. Só não compro uma bicicleta porque não sei nadar.. Mais vale um pássaro na mão do que bois voando.. 
+    
+                        </h5>
+                    </div>
+                    <div style="display: inline-block; margin: 1%;">
+                        <img src="https://via.placeholder.com/240x120" alt="Imagem">
+                    </div>
+                </header>
+    
+                <article style="display: flex; margin: 1%; background-color: rgb(75, 75, 75);">
+                    <div style="display: inline-block; margin: 1%">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis elit eget mi venenatis faucibus. Phasellus ultricies purus a nibh feugiat pulvinar. Cras tristique sed quam nec luctus. Nullam leo lectus, euismod et risus ac, pretium semper velit. Praesent semper mollis justo in pharetra. Etiam facilisis, arcu quis dapibus rhoncus, arcu nulla tempor nulla, vel accumsan massa sem ut justo. Nunc tincidunt sollicitudin diam. 
+                    </div>
+                </article>
+
+                <footer>
+                    <div style="display: inline-block; margin: 1%">
+                        <audio controls>
+                            <source src="gatinho.mp3" type="audio/mpeg">
+                        </audio>
+                    </div>
+                </footer>
+            </section>
+
+            <section style="margin: 1%; background-color: rgb(75, 75, 75);">
+                <div style="display: inline-flex;">
+                <div style="display: inline-block; margin: 1%;">
+                    <img src="https://via.placeholder.com/160x160" alt="Imagem">
+                </div>
+
+                <div style="display: inline-block;">
+                    <div style="display: inline-block;">
+                        <h5>Lorem ipsum dolor. </h5>
+                    </div>
+    
+                    <div style="display: inline-block;">
+                        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque sint nemo voluptate, facilis placeat magnam reprehenderit eius omnis impedit quae inventore beatae natus dicta laudantium dolor aspernatur, velit rerum laborum?
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam fugiat porro et modi. Adipisci debitis commodi, culpa atque voluptatum vel ducimus quos id nisi fuga ex, cum nobis? Facilis, quidem.
+                        </h5>
+                    </div>
+                </div>
+
+                </div>
+            </section>
+
+            <section style="margin: 1%; background-color: rgb(75, 75, 75);">
+                <div>
+                    <h5>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate, nihil consequuntur. A tenetur autem natus quas odio dicta libero at excepturi enim, dignissimos eligendi. Blanditiis voluptates cupiditate laudantium ipsa ipsum!
+                    </h5>
+                </div>
+    
+                <h5>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate, nihil consequuntur. A tenetur autem natus quas odio dicta libero at excepturi enim, dignissimos eligendi. Blanditiis voluptates cupiditate laudantium ipsa ipsum!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam tempora consequuntur porro sapiente sit veritatis modi eius, fugit optio eligendi hic ullam repudiandae numquam maiores. Fugiat possimus veniam animi magni?
+                </h5>
+            </div>
+            </section>
+        </section>
+
+        <section style="margin:1%"></section>
+
+        <aside style="background-color: rgb(75, 75, 75); margin: 1%;">
+            <div style="display: inline-block; margin: 10%;">
+                <ul>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus mauris, dignissim vitae nisi ut. </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu. </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel sollicitudin. </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend consectetur. </li>
+                </ul>
+            </div>
+            <div style="margin: 10%;">
+                <img src="https://via.placeholder.com/240x200" alt="Imagem">
+            </div>
+        </aside>
+    </main><hr>
+
+    <footer style="margin-right: 5%; margin-left: 5%; margin-top: 2%; margin-bottom: 2%; display: inline-flex;">
+
+        <section style="display: inline-block;">
+            <div>
+                <h5>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi aut, eum voluptas itaque reprehenderit nulla velit error officiis ducimus ad suscipit consequatur, maxime doloribus necessitatibus repellendus quis qui vitae tempore?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio illum voluptas beatae dicta sunt architecto iure perspiciatis consequatur fuga tempore assumenda aut harum officia incidunt, molestias maxime ipsam illo facere!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum minus vero commodi mollitia in veritatis harum architecto consequatur ratione aut, minima quod quia nesciunt animi, dicta quaerat perspiciatis vel consectetur!
+                </h5>
+            </div>
+
+            <div>
+                <div>
+
+                </div>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+                <a href="" style="margin: 1%;">Lorem</a>
+            </div>
+        </section>
+
+        <section style="margin:5%"></section>
+
+        <section style="display: inline-block;">
+            <input type="text" size="40" style="margin: 1%;">
+            <input type="text" size="20" style="margin: 1%;">
+            <input type="submit" style="margin-left: 23.9%;">
+
+        </section>
+
+    </footer>
+</body>
+</html>
