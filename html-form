@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Questionário</legend>
+
+            <fieldset>
+                <legend>Cadastro</legend>
+                <label for="email"> E-mail:</label>
+                <input id="email" type="email" name="email">
+                <br>
+                <br>
+                <label for="senha">Senha:</label>
+                <input id="senha" type="senha" name="senha">
+            </fieldset>
+
+            <fieldset>
+                <legend>Dados pessoais</legend>
+                <label for="nome">Nome:</label>
+                <input type="nome" name="nome" id="nome">
+                <br>
+                <br>
+                <label for="Idade">Idade:</label>
+                <input type="number" name="idade" id="idade">
+                <br>
+                <br>
+                <label for="telefone">Telefone:</label>
+                <input type="tel" name="telefone" id="telefone">
+                <br>
+                <br>
+                <label for="data">Data de nascimento:</label>
+                <input type="date" name="data" id="data">
+                <br>
+                <br>
+                <label for="genero">Gênero:</label>
+                <input type="radio" name="genero" id="masculino" value="masculino">
+                <label for="genero">Masculino</label>
+                <input type="radio" name="genero" id="feminino" value="Feminino">
+                <label for="genero">Feminino</label>
+                <input type="radio" name="genero" id="outros" value="Outros">
+                <label for="genero">Outros</label>
+                <input type="radio" name="genero" id="prefiroNaoResponder" value="prefiroNaoResponder">
+                <label for="genero">Prefiro não responder</label>
+            </fieldset>
+            
+            <fieldset>
+                <legend>Preferência</legend>
+                <label for="marca">Marca de celular que você usa:</label>
+                <select name="marca" id="marca">
+                    <option value="sansung">Sansung</option>
+                </select>
+                <br>
+                <br>
+                <label for="navegador">Escolha um navegador que você usa:</label>
+                <input type="text" name="navegador" id="navegador">
+                <br>
+                <br>
+                <label for="musica">Escolha os ritmos músicais que vc escuta:</label>
+                <input type="checkbox" name="rock" id="rock">
+                <label for="rock">Rock</label>
+                <input type="checkbox" name="pop" id="pop">
+                <label for="pop">Pop</label>
+                <input type="checkbox" name="funk" id="funk">
+                <label for="funk">Funk</label>
+                <input type="checkbox" name="mpb" id="mpb">
+                <label for="mpb">MPB</label>
+                <input type="checkbox" name="sertanejo" id="sertanejo">
+                <label for="sertanejo">Sertanejo</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Comentarios:</legend>
+                <textarea name="comentarios" id="comentarios" cols="30" rows="10" placeholder="Digite um comentário!"></textarea>
+            </fieldset>
+
+            <button type="reset">Resetar</button>
+            <button type="submit">Enviar</button>
+        </fieldset>
+    </form>
+</body>
+</html>
